@@ -1,2 +1,2 @@
-# SK-website
-WELCOME
+# SK-Cognifyz
+Welcome to SK website. To view the source code, download the zip file...
